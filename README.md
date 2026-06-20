@@ -9,6 +9,8 @@
 
 ---
 
+
+
 ## **Tech Stack**  
 🛠️ **Built with Modern Tools for Secure, Scalable Care:**  
 | **Layer**         | **Technologies**                                                                 |  
@@ -63,3 +65,12 @@
 - https://github.com/atharvaansingkar
 - https://github.com/Oreo-99
 - https://github.com/ishitajasuja
+
+
+
+
+https://github.com/user-attachments/assets/00f0f9bc-7766-4019-ab31-d434be01eed9
+
+
+
+https://github.com/user-attachments/assets/1b7980a9-3378-44bc-b1ca-313d95f5faef
